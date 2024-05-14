@@ -1,0 +1,5 @@
+﻿name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,occupation,education
+John,Doe,30,123 Main St,Apartment 1,Anytown,CA,male,Software Engineer,Bachelor's Degree
+Jane,Smith,25,456 Elm St,,Othertown,NY,female,Data Analyst,Master's Degree
+Michael,Johnson,40,789 Oak St,,Anycity,TX,male,Project Manager,Bachelor's Degree
+Emily,Brown,35,101 Pine St,,Sometown,FL,female,Teacher,Bachelor's Degree
